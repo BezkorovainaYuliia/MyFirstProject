@@ -38,9 +38,9 @@ public class MethodenExercise {
          *              Eingabe -28 → Rückgabe 28)
          * Falls du diese Aufgabe bereits erledigt hast, kannst du mit der Bonusaufgabe auf der nächsten Seite fortfahren.
          */
-        double dnummer1 = -1.2;
-        double dnummer2 = 2.2;
-        System.out.println("Summa " + dnummer1 + " + " + dnummer2 + " ist " + add(dnummer1, dnummer2));
+        double dNummer1 = -1.2;
+        double dNummer2 = 2.2;
+        System.out.println("Summa " + dNummer1 + " + " + dNummer2 + " ist " + add(dNummer1, dNummer2));
         System.out.println("Sub " + nummer1 + " - " + nummer2 + " ist " + subtract(nummer1, nummer2));
 
         int istPositiv = 2;
