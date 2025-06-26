@@ -1,8 +1,8 @@
 package Bedingungen;
 
-public class BedigungExersice {
+public class BedigungExercise {
     public static void main(String[] args) {
-        /**
+        /*
          * Programmieren: Altersprüfung
          * Schritt 1: Erstelle eine Variable age.
          * Schritt 2: Programmiere eine if-Bedingung,
@@ -18,7 +18,7 @@ public class BedigungExersice {
             System.out.println("Du bist kleiner");
         }
 
-        /**
+        /*
          * Programmieren: Namenslänge
          * Schritt 1: Erstelle eine Variable name.
          * Schritt 2: Überprüfe, ob der Name länger als 10 Zeichen ist.
@@ -33,11 +33,11 @@ public class BedigungExersice {
         else {
             System.out.println(name + "! Dein Name ist richtig klein");
         }
-        /**
+        /*
          * Bonus
          * Super, du hast gute Fortschritte gemacht! Jetzt arbeite an den Bonusaufgaben.
          **/
-         /** Überprüfe, ob eine int-Variable gerade oder ungerade ist, und gib das Ergebnis aus.**/
+         /* Überprüfe, ob eine int-Variable gerade oder ungerade ist, und gib das Ergebnis aus.**/
          int zahl = 2;
 
          if  (zahl % 2 == 0) {
@@ -48,7 +48,7 @@ public class BedigungExersice {
          }
 
 
-        /** Erstelle eine int-Variable grade mit einem Wert zwischen 0-100. Überprüfe:
+        /* Erstelle eine int-Variable grade mit einem Wert zwischen 0-100. Überprüfe:
          * 90-100: Gib "Note A" aus.
          * 70-90: Gib "Note B" aus.
          * 50-70: Gib "Note C" aus.
@@ -76,7 +76,7 @@ public class BedigungExersice {
         }
 
 
-        /** Erstelle eine int-Variable und überprüfe, ob der Wert positiv oder negativ ist.
+        /* Erstelle eine int-Variable und überprüfe, ob der Wert positiv oder negativ ist.
          * Gib das Ergebnis als "x ist eine positive Zahl" oder "x ist eine negative Zahl" aus.
         */
         int x = -4;
