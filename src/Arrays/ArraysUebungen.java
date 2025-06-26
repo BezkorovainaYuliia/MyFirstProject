@@ -1,6 +1,6 @@
 package Arrays;
 
-public class UebungenArrays {
+public class ArraysUebungen {
     public static void main(String[] args) {
         String [] gruppe2 = {"Niko Morez", "Yuliia Bezkorovaina", "Syuley Manahmedov", "Felix Canditt"};
         System.out.println(gruppe2[0] + " " + gruppe2[1] + " " + gruppe2[2] + " " + gruppe2[3]);

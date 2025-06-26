@@ -1,6 +1,6 @@
 package Methoden;
 
-public class UebungsMethoden {
+public class MethodenUebungen {
     public static void main(String[] args) {
         String name = "Yuliia";
         String name2 = "Faru Bezkorovaina";

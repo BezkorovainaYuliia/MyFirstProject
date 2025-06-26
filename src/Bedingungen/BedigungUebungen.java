@@ -1,6 +1,6 @@
 package Bedingungen;
 
-public class UebungenBedigung {
+public class BedigungUebungen {
     public static void main(String[] args) {
         int age = 21;
 
